@@ -1,0 +1,11 @@
+/* body{
+    font-family: verdana;
+    font-size: 2em;
+} */
+
+#countLabel{
+    display: block;
+    text-align: center;
+    font-size: 200em;
+    font-family: Helvetica;
+}
